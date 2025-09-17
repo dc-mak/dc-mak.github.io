@@ -36,10 +36,10 @@
       "endDate": "",
       "summary": "Published and partnered with industry on CN, a verification tool for C",
       "highlights": [
-          "Published <a href=\"#publications-1\">research</a>, contributed to <a href=\"#projects-1\">open-source</a>",
-          "2-10x speed-up in CI pipelines, with fine-grained output checking",
-          "Streamlined onboarding: wrote explainers, recorded video overviews, and triaged project issues",
-          "Taught undergrads - OCaml, Discrete Maths, Java, C/C++, Prolog, Compilers, Types, Semantics, Complexity Theory"
+        "Published <a href=\"#publications-1\">research</a>, contributed to <a href=\"#projects-1\">open-source</a>",
+        "2-10x speed-up in CI pipelines, with fine-grained output checking",
+        "Streamlined onboarding: wrote explainers, recorded video overviews, and triaged project issues",
+        "Taught undergrads - OCaml, Discrete Maths, Java, C/C++, Prolog, Compilers, Types, Semantics, Complexity Theory"
       ]
     },
     {
@@ -51,8 +51,8 @@
       "endDate": "2023-09-12",
       "summary": "Hack Type-checker, Developer Infrastructure",
       "highlights": [
-          "Reduced risk of disruption to www.facebook.com with <a href=\"https://github.com/search?q=repo%3Afacebook%2Fhhvm+D47890092&type=commits\">stricter switch check in Hack</a>",
-          "Result: improved robustness of 98.5% of 170K switches; signaled potential errors in rest"
+        "Reduced risk of disruption to www.facebook.com with <a href=\"https://github.com/search?q=repo%3Afacebook%2Fhhvm+D47890092&type=commits\">stricter switch check in Hack</a>",
+        "Result: improved robustness of 98.5% of 170K switches; signaled potential errors in rest"
       ]
     },
     {
@@ -64,9 +64,9 @@
       "endDate": "2020-07-05",
       "summary": "SecDB Architecture",
       "highlights": [
-          "Explored feasibility of Slang running on Truffle/GraalVM: talk at <a href=\"https://youtu.be/hPjDWzPiaCs?feature=shared\">Curry On (2019)</a>",
-          "Supervised intern project (gRPC for Slang) and training (Java and Slang/SecDb)",
-          "Interviewed candidates & improved hiring (updated job spec, encouraged work-representative questions)"
+        "Explored feasibility of Slang running on Truffle/GraalVM: talk at <a href=\"https://youtu.be/hPjDWzPiaCs?feature=shared\">Curry On (2019)</a>",
+        "Supervised intern project (gRPC for Slang) and training (Java and Slang/SecDb)",
+        "Interviewed candidates & improved hiring (updated job spec, encouraged work-representative questions)"
       ]
     },
     {
@@ -78,8 +78,8 @@
       "endDate": "2020-08-31",
       "summary": "CPU Group",
       "highlights": [
-          "Set-up a new workflow for model-checking undefined decoders",
-          "Verified (model-checking) undefined decoders on two released processors for two different architectures"
+        "Set-up a new workflow for model-checking undefined decoders",
+        "Verified (model-checking) undefined decoders on two released processors for two different architectures"
       ]
     }
   ],
@@ -110,9 +110,9 @@
       "endDate": "",
       "summary": "Founded and ran Aurelius Society at the University of Cambridge. Speaking and writing on Stoicism.",
       "highlights": [
-          "Aurelius Society - taught Stoic philosophy via discussion groups, socials, and talks (<a href=\"https://youtu.be/3v0SSy7UbSc?feature=shared\">here</a> and <a href=\"https://youtu.be/x_NZ1qfdZRw?feature=shared\">here</a>)",
-          "Featured in <a href=\"https://www.alumni.cam.ac.uk/magazine/issue-97/the-art-of-acceptance\">Cambridge Alumni Magazine</a>",
-          "Featured on <a href=\"https://open.spotify.com/episode/68CjgSUyub99BRh538Hed7?si=Cx1Pymw1RRGsyKP9FLauPQ\">CamFM</a>"
+        "Aurelius Society - taught Stoic philosophy via discussion groups, socials, and talks (<a href=\"https://youtu.be/3v0SSy7UbSc?feature=shared\">here</a> and <a href=\"https://youtu.be/x_NZ1qfdZRw?feature=shared\">here</a>)",
+        "Featured in <a href=\"https://www.alumni.cam.ac.uk/magazine/issue-97/the-art-of-acceptance\">Cambridge Alumni Magazine</a>",
+        "Featured on <a href=\"https://open.spotify.com/episode/68CjgSUyub99BRh538Hed7?si=Cx1Pymw1RRGsyKP9FLauPQ\">CamFM</a>"
       ]
     },
     {
@@ -122,9 +122,7 @@
       "startDate": "2022-10-05",
       "endDate": "2024-07-01",
       "summary": "Strategised approach and collated info on university and college portfolios and governance.",
-      "highlights": [
-          "Organised a talk with <a href=\"https://youtu.be/czGy8ncNuSQ?feature=shared\">30K views online</a>."
-      ]
+      "highlights": ["Organised a talk with <a href=\"https://youtu.be/czGy8ncNuSQ?feature=shared\">30K views online</a>."]
     },
     {
       "organization": "Treasurer",
@@ -156,14 +154,10 @@
       "courses": []
     }
   ],
-  "awards": [
-  ],
-  "certificates": [
-  ],
-  "publications": [
-  ],
-  "skills": [
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
   "languages": [
     {
       "language": "English",

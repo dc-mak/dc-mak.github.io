@@ -37,8 +37,9 @@ volunteer with local animal rights groups and enjoy cooking (specializing in
 vegan Gujarati cuisine). Some very kind friends gave me a wonderful gift
 a while back: they listened to me speaking about my life
 and my views, and recorded it for posterity.
-  * [Jamie Woodhouse's Sentientism Podcast](https://open.spotify.com/episode/5obUhMzVx3jCeKXgR1cOgj?si=eoel0Mt6SJ25k24aSpTquA), and [show notes](https://sentientism.info/sentientist-pledge/dhruv-makwana#). 
-  * [Coffee's on Me, David Quan](https://www.coffeesonmedavidquan.com/podcast/episode/7a61519a/dhruv-makwana-or-stoicism-founding-president-of-aurelius-society-depression-vipassana-meditation-mental-health-wellbeing-cambridge-bubble-music-journaling-career-goldman-sachs-phd-etc-or-coffees-on-me-david-quan), with a [1-minute summary](https://www.coffeesonmedavidquan.com/podcast/episode/7c163dfc/1-minute-preview-dhruv-makwana-phd-computer-science-stoicism-buddhism-depression-trinity-college-cambridge-university-or-coffees-on-me-david-quan).
+
+- [Jamie Woodhouse's Sentientism Podcast](https://open.spotify.com/episode/5obUhMzVx3jCeKXgR1cOgj?si=eoel0Mt6SJ25k24aSpTquA), and [show notes](https://sentientism.info/sentientist-pledge/dhruv-makwana#).
+- [Coffee's on Me, David Quan](https://www.coffeesonmedavidquan.com/podcast/episode/7a61519a/dhruv-makwana-or-stoicism-founding-president-of-aurelius-society-depression-vipassana-meditation-mental-health-wellbeing-cambridge-bubble-music-journaling-career-goldman-sachs-phd-etc-or-coffees-on-me-david-quan), with a [1-minute summary](https://www.coffeesonmedavidquan.com/podcast/episode/7c163dfc/1-minute-preview-dhruv-makwana-phd-computer-science-stoicism-buddhism-depression-trinity-college-cambridge-university-or-coffees-on-me-david-quan).
 
 <!---
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
