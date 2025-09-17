@@ -2,7 +2,7 @@
 layout: book-shelf
 title: bookshelf
 permalink: /books/
-nav: false
+nav: true # excluded in _config.yml
 collection: books
 ---
 

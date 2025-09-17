@@ -7,7 +7,7 @@ first_name: Dhruv
 middle_name: C.
 last_name: Makwana
 contact_note: >
-  Contact me on LinkedIn.
+  Feel free to reach out on LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -47,7 +47,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -124,10 +124,6 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@dhruvmakwana/feed
-  - name: Medium
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -186,7 +182,18 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - _books/
+  - _news/
   - _pages/about_einstein.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _posts/
+  - _projects/
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -263,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Makwana]
+  first_name: [Dhruv, C.]
 
   style: apa
   locale: en

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: false
+nav: true # excluded in _config.yml
 nav_order: 8
 dropdown: true
 children:
