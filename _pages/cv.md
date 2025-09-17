@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
+nav_order: 2
 cv_pdf: dc-makwana-cv.pdf # you can also use external links here
 description: Download my CV as a PDF on the right.
 toc:
