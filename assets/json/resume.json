@@ -36,7 +36,7 @@
       "endDate": "",
       "summary": "Published and partnered with industry on CN, a verification tool for C",
       "highlights": [
-        "Published <a href=\"#publications-1\">research</a>, contributed to <a href=\"#projects-1\">open-source</a>",
+        "Published <a href=\"/publications\">research</a>, contributed to <a href=\"#projects-1\">open-source</a>",
         "2-10x speed-up in CI pipelines, with fine-grained output checking",
         "Streamlined onboarding: wrote explainers, recorded video overviews, and triaged project issues",
         "Taught undergrads - OCaml, Discrete Maths, Java, C/C++, Prolog, Compilers, Types, Semantics, Complexity Theory"
