@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Computer Science, University of Cambridge. Open to work starting June 2026.
+subtitle: Researcher at [Math, Inc](https://www.math.inc). PhD in Computer Science (PL, Types, Formal Methods), University of Cambridge.
 
 profile:
   align: left
@@ -25,11 +25,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am open to any work at the intersection of elegant abstractions, technical
-infrastructure problems and readable, working code. So far, I have focused on
-tooling performance, types, and verification. I’m enthusiastic about supporting
-others: I’ve trained new hires and mentored interns, given talks, made
-educational videos, and taught undergrads and children.
+I work as a Researcher at [Math, Inc](https://www.math.inc).
+[We are hiring researchers with experience in software verification - please
+apply!](https://www.math.inc/careers)
+
+I am in the process of submitting my PhD thesis at the University of Cambridge,
+on the [CN C verification tool](https://github.com/rems-project/cn), supervised
+by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/) and [Peter
+Sewell](https://www.cl.cam.ac.uk/~pes20).
+
+A general theme of my work has been the intersection of elegant abstractions,
+technical infrastructure problems and readable, working code. So far, I have
+focused on tooling performance, types, and verification. I’m enthusiastic about
+supporting others: I’ve trained new hires and mentored interns, given talks,
+made educational videos, and taught undergrads and children.
 
 On the personal side of things, I am a practising Buddhist, under the tutelage
 of [Beth Upton](https://bethupton.com/). I enjoy long meditation retreats,
