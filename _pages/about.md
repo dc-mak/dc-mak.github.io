@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at [Math, Inc](https://www.math.inc). PhD in Computer Science (PL, Types, Formal Methods), University of Cambridge.
+subtitle: Researcher at <a href="https://www.math.inc" target="_blank">Math, Inc</a>. PhD in Computer Science (PL, Types, Formal Methods), University of Cambridge.
 
 profile:
   align: left
@@ -30,7 +30,7 @@ I work as a Researcher at [Math, Inc](https://www.math.inc).
 apply!](https://www.math.inc/careers)
 
 I am in the process of submitting my PhD thesis at the University of Cambridge,
-on the [CN C verification tool](https://github.com/rems-project/cn), supervised
+on [CN, a verification tool for C](https://github.com/rems-project/cn), supervised
 by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/) and [Peter
 Sewell](https://www.cl.cam.ac.uk/~pes20).
 

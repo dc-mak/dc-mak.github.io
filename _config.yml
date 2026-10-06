@@ -9,7 +9,7 @@ last_name: Makwana
 contact_note: >
   Feel free to reach out on LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I work as a Researcher as at <a href="https://www.math.inc">Math, Inc</a>.
+  Researcher at Math, Inc.
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
